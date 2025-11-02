@@ -1,0 +1,22 @@
+{
+  "name": "table-order-restaurant",
+  "version": "1.0.0",
+  "description": "A restaurant table ordering system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/waiphyoMaung1990/Table_Order_Restaurant.git"
+  },
+  "keywords": [
+    "restaurant",
+    "ordering",
+    "table"
+  ],
+  "author": "waiphyoMaung1990",
+  "license": "ISC",
+  "dependencies": {}
+}
