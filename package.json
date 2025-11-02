@@ -18,5 +18,8 @@
   ],
   "author": "waiphyoMaung1990",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {}"dependencies": {
+  "react-native": "^0.73.0"
+}
+
 }
